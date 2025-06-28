@@ -1,0 +1,15 @@
+# Ruby
+/.bundle/
+/log/
+/tmp/
+/*.gem
+/.env
+
+# Node
+frontend/node_modules/
+frontend/package-lock.json
+/dist/
+/build/
+
+#IDE
+.vscode/

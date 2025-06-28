@@ -1,0 +1,57 @@
+.container {
+    margin-top: 2rem;
+  }
+  
+  .heading {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+  }
+  
+  .table th,
+  .table td {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .table tr:nth-child(even) {
+    background: #f9f9f9;
+  }
+  
+  /* Chart */
+  .chartContainer {
+    margin-top: 1.5rem;
+    background: #fafafa;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Tooltip personalizado */
+  .tooltip {
+    background: white;
+    border: 1px solid #ccc;
+    padding: 0.75rem;
+    border-radius: 4px;
+  }
+  
+  .tooltipDate {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .tooltipLine {
+    font-size: 0.9rem;
+    margin: 0.25rem 0;
+  }
+  
+  .tooltipLine span {
+    font-weight: 600;
+  }
+  

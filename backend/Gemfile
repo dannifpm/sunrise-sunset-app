@@ -1,0 +1,10 @@
+# frozen_string_literal: true
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'sequel'
+gem 'pg'
+gem 'geocoder'
+gem 'httparty'
+gem 'dotenv'
+gem 'rubocop', require: false
